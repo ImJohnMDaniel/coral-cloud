@@ -1,0 +1,33 @@
+https://orgfarm-79f58b5fc7-dev-ed.develop.my.salesforce.com/_nc_external/identity/ui/login/AdminNewUserPasswordInterstitial?c=lJM7Ar4I4Pt_6NhZyIica7UWvV2R1GOnwOrsOrhV5b4a8Qh8MHwvhEAiLYYszvt.bAFTfKnbpT.6EjV.BnLuwztjF9xTgiXMxFr5M5um4eulmN_Kxec7Z8aCYuCqBQBGv_Qc8Wk9G4SGejq6YpYjdRrJOoMR4qQDWsjRGTva5YD..79zLqknlr9lZR2BCpEJdkzmNV8rsWz5wkHHXg5TmAD6KJCGoQ%3D%3D
+
+epic.59f51737499755780@orgfarm.th
+
+Km3@ib!$kqRNGhyAN2QScqj@8d9dQtE2F
+
+https://orgfarm-79f58b5fc7-dev-ed.develop.my.salesforce.com
+
+orgfarm-79f58b5fc7-dev-ed
+
+04tWx0000001aXhIAI -- CoralCloud-Base@1.11.0-1
+
+https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-coral-cloud-sample-app
+
+https://developer.salesforce.com/agentforce-workshop/
+
+https://orgfarm-79f58b5fc7-dev-ed.develop.lightning.force.com/lightning/setup/EinsteinGPTSetup/home
+Turn on EINSTEIN STEUP
+
+https://orgfarm-79f58b5fc7-dev-ed.develop.lightning.force.com/lightning/setup/EinsteinPromptStudio/home
+
+
+https://developer.salesforce.com/agentforce-workshop/getting-started/self-service-workshop-setup
+
+https://developer.salesforce.com/agentforce-workshop/prompt-builder/1-field-generation
+
+https://developer.salesforce.com/agentforce-workshop/agents/1-get-started
+
+https://developer.salesforce.com/agentforce-workshop/agents/2-flow-actions-credit
+
+https://developer.salesforce.com/agentforce-workshop/agents/4-apex-actions
+
+
